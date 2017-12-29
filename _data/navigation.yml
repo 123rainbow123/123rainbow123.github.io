@@ -1,21 +1,21 @@
 # Site navigation links
 
--  title: Web Design
- -  url: /teaching/
- -  excerpt:  "HTML5+CSS"
- -  image: 300x200.gif
- +
- +- title: Tableau
- +  url: /i18nl10n/
- +  excerpt: "还没想好"
- +  image: 300x200.gif
- +
- +- title: 作品展
- +  url: /SDG/
- +  excerpt: "我的作品展"
- +  image: 300x200.gif
- +
- +- title: Contact 聯絡我
- +  url: /contact/
- +  excerpt: "联络我"
- +  image: 300x200.gif
+  title: Web Design
+  url: /teaching/
+  excerpt:  "HTML5+CSS"
+  image: 300x200.gif
+ 
+  title: Tableau
+  url: /i18nl10n/
+  excerpt: "还没想好"
+  image: 300x200.gif
+ 
+  title: 作品展
+  url: /SDG/
+  excerpt: "我的作品展"
+  image: 300x200.gif
+ 
+  title: Contact 聯絡我
+  url: /contact/
+  excerpt: "联络我"
+  image: 300x200.gif
