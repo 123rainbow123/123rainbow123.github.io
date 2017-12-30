@@ -1,21 +1,17 @@
 # Site navigation links
 
-- title: Web design
-  url: /web design/
+- title: 作品集(Web)
+  url: /portfolio/
   excerpt: 希望学完不秃头
   image: 300x200.gif
   
-- title: Visualization
-  url: /visualization/
+- title: 信息可视化作品集
+  url: /infovis/
   excerpt: 做好看又有内容的图
   image: 300x200-2.gif
   
-- title: 作品集
-  url: /portfolio/
-  excerpt: 开发中...
-  image: 300x200-3.gif
-  
-- title: contact
+- 
+  title: contact
   url: /contact/
   excerpt: 联系我
   image: 300x200-4.gif
