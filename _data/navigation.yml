@@ -10,8 +10,12 @@
   excerpt: 做好看又有内容的图
   image: 300x200-2.gif
   
-- 
-  title: contact
+- title: 学习笔记
+  url: /_posts/
+  excerpt: 好记性不如烂笔头
+  image: 300x200-3.gif
+  
+- title: contact
   url: /contact/
   excerpt: 联系我
   image: 300x200-4.gif
