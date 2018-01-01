@@ -10,12 +10,12 @@
   excerpt: 做好看又有内容的图
   image: 300x200-2.gif
   
-- title: 网页设计学习笔记
-  url: /posts/rwd
+- title: 学习笔记
+  url: /posts/
   excerpt: 好记性不如烂笔头
   image: 300x200-3.gif
   
-- title: 信息可视化笔记
-  url: /posts/infovis
-  excerpt: 好记性不如烂笔头
+- title: contact
+  url: /contact/
+  excerpt: 联系我
   image: 300x200-4.gif
