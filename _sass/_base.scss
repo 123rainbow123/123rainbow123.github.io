@@ -8,7 +8,7 @@
 
 body {
 	font-family: $base-font;
-	color: $text-color;
+	bckground-image:url(images/picture.jpg);
 	@include font-size(16);
 }
 
