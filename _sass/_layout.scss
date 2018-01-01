@@ -71,16 +71,16 @@
 			}
 			&:after {
 				width: 0;
-				background: #FFB3FF;
+				background:	#FFC0CB;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
+			&:hover:after {
+			color:#FFC0CB;
+			bacground-color:white;
 		}
-		&:hover:after {
-		color:#FFB3FF;
-		background-color:#CCEEFF;
 	}
 }
 
@@ -108,7 +108,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: #FFB3FF ;
+			color: 	#40E0D0 ;
 			text-transform: uppercase;
 		}
 	}
@@ -120,7 +120,7 @@
 	@include clearfix;
 	font-weight: 700;
 	a {
-		color:  #FFB3FF;
+		color: lighten($black,60);
 	}
 }
 
@@ -351,5 +351,4 @@
 			text-decoration: none;
 		}
 	}
- }
 }
