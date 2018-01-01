@@ -5,15 +5,10 @@
 /*
    Typography
    ========================================================================== */   
-body{
-  background: -webkit-linear-gradient(left,rgba(255,240,245,0),rgba(255,240,245,1)); /* Safari 5.1 - 6 */
-  background: -o-linear-gradient(right,rgba(255,240,245,0),rgba(255,240,245,1)); /* Opera 11.1 - 12*/
-  background: -moz-linear-gradient(right,rgba(255,240,245,0),rgba(255,240,245,1)); /* Firefox 3.6 - 15*/
-  background: linear-gradient(to right, rgba(255,240,245,0), rgba(255,240,245,1)); /* 标准的语法 */
-}
+
 body {
 	font-family: $base-font;
-	bckground-image:url(images/picture.jpg);
+	bckground-image:url('../images/beijing.jpg');
 	@include font-size(16);
 }
 
