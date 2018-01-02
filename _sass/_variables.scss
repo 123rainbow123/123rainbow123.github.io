@@ -4,37 +4,45 @@
 
 /*
    Typography variables
+   結合簡書字型設置及常用之中文字型
+   http://www.jb51.net/css/67658.html
+   行距中文調大一點
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
+$base-font                   	: Kai,Kaiti SC,KaiTi,DFKai-SB,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia,Times,"Times New Roman",serif;
 $heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
 
 $doc-font-size               	: 16;
-$doc-line-height             	: 24;
+$doc-line-height             	: 28;
 
 $border-radius               	: 3px;
 
 /*
    Color variables
+   Background : bwhite rgba(255,182,193,0.5)  http://encycolorpedia.cn/ffffff
+   white #ffffff
+   text-color: #595959
    ========================================================================== */
 
-$white                        : #fff;
+$white                        : #fff; 
 $black                        : #000;
+$bwhite                       : rgba(255,255,255,0.9);
+$GoldEnrod                    : #daa520;
 
 $body-color                  	: #ebebeb;
 
-$text-color                  	: #313130;
+$text-color                  	: #595959;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #343434;
+$base-color                  	: $bwhite;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $black;
+$primary-color               	: $bwhite;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -80,15 +88,15 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
+$sliding-menu-border-color	 	   : $bwhite;
+$sliding-menu-background 		   : $bwhite;
+$sliding-menu-color 	 		   : #595959;
+$sliding-menu-background-hover     : $bwhite;
 $sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
-$button-size		         	     : 30px;
-$transition						         : 0.3s; // increase this to see the transformations in slow-motion
-$sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
+$button-size		         	   : 30px;
+$transition						   : 0.3s; // increase this to see the transformations in slow-motion
+$sliding-menu-animation            : all 500ms cubic-bezier(.86,.01,.77,.78);
 
 /*
    Badge variables
@@ -106,5 +114,3 @@ $badge-font-color              : $white;
 /*
    Masthead variables
    ========================================================================== */
-
-$masthead-height: $button-size * 2;
