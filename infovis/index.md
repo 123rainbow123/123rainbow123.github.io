@@ -6,8 +6,8 @@ modified:
 excerpt: "渣渣的可视化图"
 tags: []
 image: 
-  feature: cccc.jpg
-  teaser: cccc.jpg
+  feature: 
+  teaser: 
 ---
 
 
