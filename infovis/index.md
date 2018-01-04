@@ -7,7 +7,7 @@ excerpt: "渣渣的可视化图"
 tags: []
 image: 
   feature: cccc.jpg
-  teaser:
+  teaser: cccc.jpg
 ---
 
 
