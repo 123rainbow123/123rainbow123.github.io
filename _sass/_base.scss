@@ -9,7 +9,7 @@
 body {
 	font-family: $base-font;
 	background-image:linear-gradient(rgba(255,240,245,0.5), rgba(255,240,245,1)),
-    url('../images/aaaa.jpg');
+    url('../images/background.jpg');
 	@include font-size(16);
 }
 
