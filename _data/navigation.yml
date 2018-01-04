@@ -2,20 +2,20 @@
 
 - title: 作品集(Web)
   url: /portfolio/
-  excerpt: 希望学完不秃头
-  image: 300x200.gif
+  excerpt: 每个网页都应被好好珍藏
+  image: meau1.gif
   
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: 做好看又有内容的图
-  image: 300x200-2.gif
+  image: meau2.gif
   
 - title: 学习笔记
   url: /posts/
   excerpt: 好记性不如烂笔头
-  image: 300x200-3.gif
+  image: meau3.gif
   
 - title: contact
   url: /contact/
   excerpt: 联系我
-  image: 300x200-4.gif
+  image: meau4.gif
