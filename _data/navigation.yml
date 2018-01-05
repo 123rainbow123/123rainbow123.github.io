@@ -10,8 +10,13 @@
   excerpt: 做好看又有内容的图
   image: meau2.gif
   
-- title: 学习笔记
-  url: /posts/
+- title: 网页设计学习笔记
+  url: /posts/rwd
   excerpt: 好记性不如烂笔头
   image: meau3.gif
+  
+  title: 信息可视化学习笔记
+  url: /posts/infovis
+  excerpt: 好记性不如烂笔头
+  image: meau4.gif
   
