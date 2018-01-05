@@ -6,13 +6,13 @@ modified:
 excerpt: "你竟然真的想联系我？"
 tags: []
 image: 
-  feature: Portfolio.svg
+  feature:
   teaser:
 ---
 
 
 <div class="tiles">
-{% for post in site.categories.posts %}
+{% for post in site.categories.contact %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 posts列出來-->
+</div><!-- /.tiles 把所有categories 有 contact列出來-->
