@@ -3,20 +3,20 @@
 - title: 作品集(Web)
   url: /portfolio/
   excerpt: 每个网页都应被好好珍藏
-  image: meau1.gif
+  image: 作品集.gif
   
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: 做好看又有内容的图
-  image: meau2.gif
+  image: 信息可视化作品.gif
   
 - title: 网页设计学习笔记
   url: /posts/rwd
   excerpt: 好记性不如烂笔头
-  image: meau3.gif
+  image: 网页设计笔记.gif
   
 - title: 信息可视化学习笔记
   url: /posts/infovis
   excerpt: 好记性不如烂笔头
-  image: meau4.gif
+  image: 信息可视化笔记.gif
   
